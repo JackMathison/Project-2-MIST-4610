@@ -14,15 +14,15 @@ MIST 4610 9:35-10:50 Group 9
    
 5. Carson Whitt | @whittcarson
 
-   REPO: https://github.com/whittcarson/MIST4610GroupProject1
+   REPO: https://github.com/whittcarson/MIST4610GroupProject2
    
 7. Justin Sullivan | @Justin7ime
    
-   REPO: https://github.com/Justn7ime/effective-parakeet
+   REPO: https://github.com/Justn7ime/MIST-Project-2)
    
 9. Hayes Herzog | @purpwlhaze
     
-   REPO: https://github.com/purwplhaze/mist4610_project1
+   REPO: https://github.com/purwplhaze/MIST4610_Proj2)
 
 # DESCRIPTION OF DATASET
 
