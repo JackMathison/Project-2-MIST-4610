@@ -10,7 +10,7 @@ MIST 4610 9:35-10:50 Group 9
    
 3. Jack Mathison | @JackMathison
    
-   REPO: https://github.com/JackMathison/tissue
+   REPO: https://github.com/JackMathison/Project-2-MIST-4610
    
 5. Carson Whitt | @whittcarson
 
