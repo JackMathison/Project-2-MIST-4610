@@ -1,4 +1,4 @@
-# MIST4610GroupProject2
+# Project-2-MIST-4610
 
 MIST 4610 9:35-10:50 Group 9 
 
@@ -18,11 +18,11 @@ MIST 4610 9:35-10:50 Group 9
    
 7. Justin Sullivan | @Justin7ime
    
-   REPO: https://github.com/Justn7ime/MIST-Project-2)
+   REPO: https://github.com/Justn7ime/MIST-Project-2
    
 9. Hayes Herzog | @purpwlhaze
     
-   REPO: https://github.com/purwplhaze/MIST4610_Proj2)
+   REPO: https://github.com/purwplhaze/MIST4610_Proj2
 
 # DESCRIPTION OF DATASET
 
