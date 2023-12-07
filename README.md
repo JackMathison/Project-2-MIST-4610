@@ -47,7 +47,7 @@ After viewing the results of the first diagram, we filtered the data to include 
 "Which make of car has the highest rate of purchase for each type of electric vehicle in Washington?"
 
 ### SIGNIFICANCE: 
-This question and the relevant data are signifigant as it allows one to understand who the market leaders are for both PHEV's and BEV's. By understanding who the market leaders are in the electric car market, consumers can make more informed decisions on what kind of electric vehicle to purchase. In the mind of many consumers, BEV's and PHEV's with more marketshare maybe better options than BEV's and PHEV's with less marketshare as there must be a reason that more of one kind of car is bought over others. 
+This question and the relevant data are significant as it allows one to understand who the market leaders are for both PHEV's and BEV's. By understanding who the market leaders are in the electric car market, consumers can make more informed decisions on what kind of electric vehicle to purchase. In the mind of many consumers, BEV's and PHEV's with more marketshare maybe better options than BEV's and PHEV's with less marketshare as there must be a reason that more of one kind of car is bought over others. Although the inclusion of pie graphs are not always the optimal methodology, in this instance, we used the graphs in order to display the overwhelming disparity of the market share, emphasizing the points made by the correlating charts.
 
 ### PHEV's:
 
@@ -63,7 +63,7 @@ This question and the relevant data are signifigant as it allows one to understa
 <img width="625" alt="BEV Heat" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/748ac9a2-1c8f-40ba-84a8-b823729e8006">
 
 # MANIPULATIONS
-We did not manipulate any raw data, but we did apply measurable functions to certain columns. For example, we applied the count function to "Electric Vehicle Range" in Q1 in order to show the number of EV types and discrepancies between EV makes. Also, we applied the average function to "Electric Range '' in Q2 to set a standard for comparing the electric range year-after-year in the graph. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
+We did not manipulate any raw data, but we did filter out irrelevant data and apply measurable functions to certain columns. In Q1, we filtered data to only include the top 20 makes of EVs with model year 2008 or later. We also applied the average function to "Electric Range" in order to set a standard for comparing the electric range of electric vehicle types year-after-year. For Q2, we applied the count function to "Electric Vehicle Type" in order to compare the amount of EV types manufactured for each make. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
 
 # TABLEAU PACKAGED WORKBOOK
 The Tableau Packaged Workbook featuring these graphs and the dataset is attached in the repository.
